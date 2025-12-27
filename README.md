@@ -235,8 +235,8 @@ You are free to use, modify, and distribute this project.
 ## 📧 **Contact**
 
 **Maintainer:**
-**Name:** Abdelrhman Hamed
-**Email:** [abdelrhmanhamedmousaa@gmail.com](mailto:abdelrhmanhamedmousaa@gmail.com)
+**Name:** Abdelrhman Hamed \n
+**Email:** [abdelrhmanhamedmousaa@gmail.com](mailto:abdelrhmanhamedmousaa@gmail.com) \n
 **GitHub:** [https://github.com/Abdelrhman2371999](https://github.com/Abdelrhman2371999)
 
 **Support:**
