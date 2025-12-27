@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 
 # **Scripting Lab – Network Security** 🔐
@@ -275,3 +276,7 @@ You are free to use, modify, and distribute this project.
 
 </div>
 
+=======
+# Scripting-Lab---Network-Security
+A collection of C and Python scripts for network security, including packet sniffing, scanning, encryption, and intrusion detection. Designed for network analysis, automation, and security testing. Perfect for learning and practical cybersecurity applications
+>>>>>>> a06207f62ec2ff6686f9bb770b7b29ec2dfc8a5e
