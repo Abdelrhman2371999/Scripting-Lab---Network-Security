@@ -1,0 +1,68 @@
+# =========================
+# C / C++ Compiled Files
+# =========================
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# =========================
+# Python Cache & Builds
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Python Virtual Environments
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Logs & Output Files
+# =========================
+*.log
+*.txt
+*.csv
+
+# (If you want to keep sample output files,
+# remove the above extensions and ignore selectively)
+
+# =========================
+# Encryption / Security Artifacts
+# =========================
+*.key
+*.pem
+*.enc
+*.encrypted
+*.bin
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.bak
+*~
